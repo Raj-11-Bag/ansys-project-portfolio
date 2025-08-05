@@ -82,5 +82,5 @@ This analysis provides essential insight into how exhaust manifolds behave under
 
 ## 📫 Contact
 
-- **LinkedIn:** [[Your LinkedIn Profile]](https://www.linkedin.com/in/raj-bag-392632223/)
+- **LinkedIn:** (https://www.linkedin.com/in/raj-bag-392632223/)
 - **Email:** rajbag4321@gmail.com
