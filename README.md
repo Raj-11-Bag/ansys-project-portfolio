@@ -19,14 +19,14 @@ The output helps assess whether the piston meets mechanical safety criteria unde
 
 ---
 
-## 🌊 Project 2: CFD Simulation of Airflow over a Car Model
+## 🌊 Project 2: Exhaust Manifold Flow & Thermal Analysis
 
 🎥 **Watch the video:** [YouTube Link](https://youtu.be/I5fgQbQvRbM)
 
 **Overview:**
-- Simulated airflow around a car body using ANSYS Fluent.
-- Visualized pressure and velocity contours.
-- Analyzed aerodynamic behavior and drag forces.
+Conducted a CFD-based conjugate heat transfer simulation on an exhaust manifold using ANSYS Fluent. Results include 
+- Flow uniformity, pressure drop, heat flux, and thermal distribution Crucial for understanding thermal loading, optimizing material selection, and improving design.
+- Simulated high-temperature gas flow through multiple inlet runners converging into a collector. Evaluated velocity, pressure, and temperature fields in both fluid and solid domains.
 
 📂 Folder: `project-2/` (contains supporting files or documentation)
 
