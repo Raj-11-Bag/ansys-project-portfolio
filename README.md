@@ -4,14 +4,16 @@ Welcome to my ANSYS portfolio! This repository showcases two of my simulation-ba
 
 ---
 
-## 🔧 Project 1: Structural Analysis of a Bridge Beam
+## 🔧 Project 1: Piston Head Structural Analysis
 
 🎥 **Watch the video:** [YouTube Link](https://youtu.be/v-5E2nbXJcM)
 
 **Overview:**
-- Simulated stress distribution and deformation in a bridge beam.
-- Applied boundary conditions, loads, and material properties.
-- Evaluated structural performance under varying load scenarios.
+This project involves conducting a static structural simulation of a piston head using ANSYS Workbench. A pressure load is applied to replicate combustion forces, and supports are defined to constrain piston movement. Results include:
+- Total deformation contours, showing how the piston crown distorts under load.
+- Von Mises stress distribution, identifying potential stress concentrations and regions at risk of yielding.
+The output helps assess whether the piston meets mechanical safety criteria under operating pressures.
+
 
 📂 Folder: `project-1/` (contains supporting files or documentation)
 
