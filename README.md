@@ -42,5 +42,5 @@ Feel free to connect with me or explore more of my work!
 
 ## 📫 Contact
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email]
+- **LinkedIn:** [https://www.linkedin.com/in/raj-bag-392632223]
+- **Email:** [rajbag4321@gmail.com]
