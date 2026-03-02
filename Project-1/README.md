@@ -57,7 +57,7 @@ To simulate and understand the mechanical behavior of a piston under high intern
 
 ## 📁 Files Included
 
-> (You can include these if you plan to upload them)
+
 
 - `piston_geometry.scdoc` or `.igs` – Piston CAD model  
 - `piston_simulation.wbpj` – ANSYS Workbench project file  
