@@ -5,7 +5,9 @@ Welcome to my ANSYS portfolio! This repository showcases two of my simulation-ba
 ---
 
 ## 🔧 Project 1: Piston Head Structural Analysis
+## 📽️ Demo Video
 
+[![Watch the video](https://img.youtube.com/vi/v-5E2nbXJcM/0.jpg)](https://youtu.be/v-5E2nbXJcM)
 🎥 **Watch the video:** [YouTube Link](https://youtu.be/v-5E2nbXJcM)
 
 **Overview:**
@@ -20,7 +22,9 @@ The output helps assess whether the piston meets mechanical safety criteria unde
 ---
 
 ## 🌊 Project 2: Exhaust Manifold Flow & Thermal Analysis
+## 📽️ Demo Video
 
+[![Watch the video](https://img.youtube.com/vi/I5fgQbQvRbM/0.jpg)](https://youtu.be/I5fgQbQvRbM)
 🎥 **Watch the video:** [YouTube Link](https://youtu.be/I5fgQbQvRbM)
 
 **Overview:**
