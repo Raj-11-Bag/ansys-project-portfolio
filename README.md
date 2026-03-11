@@ -8,7 +8,6 @@ Welcome to my ANSYS portfolio! This repository showcases two of my simulation-ba
 ## 📽️ Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/v-5E2nbXJcM/0.jpg)](https://youtu.be/v-5E2nbXJcM)
-🎥 **Watch the video:** [YouTube Link](https://youtu.be/v-5E2nbXJcM)
 
 **Overview:**
 This project involves conducting a static structural simulation of a piston head using ANSYS Workbench. A pressure load is applied to replicate combustion forces, and supports are defined to constrain piston movement. Results include:
@@ -25,7 +24,6 @@ The output helps assess whether the piston meets mechanical safety criteria unde
 ## 📽️ Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/I5fgQbQvRbM/0.jpg)](https://youtu.be/I5fgQbQvRbM)
-🎥 **Watch the video:** [YouTube Link](https://youtu.be/I5fgQbQvRbM)
 
 **Overview:**
 Conducted a CFD-based conjugate heat transfer simulation on an exhaust manifold using ANSYS Fluent. Results include 
